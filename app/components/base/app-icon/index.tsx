@@ -28,7 +28,14 @@ const AppIcon: FC<AppIconProps> = ({
         background,
       }}
     >
-      🤖
+      <img
+        src="/images/xiaomai.png"
+        style={{
+          width: '18px',
+          height: '100%',
+          objectFit: 'contain',
+        }}
+      />
     </span>
   )
 }

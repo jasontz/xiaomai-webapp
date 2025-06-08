@@ -1,6 +1,8 @@
 .answerIcon {
-  position: relative;
-  background: url(./icons/robot.svg);
+  background: url(../../../public/images/xiaomai.png);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .typeingIcon {
